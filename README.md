@@ -1,4 +1,4 @@
-#DPA Attack on AES
+# DPA Attack on AES
 This repository implements a practical demonstration of a side channel attack, specifically the Differential Power Analysis (DPA) attack against the Advanced Encryption Standard (AES) cipher. 
 ## Analysis of a Trace
 ![](images/trace.png)
